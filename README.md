@@ -18,7 +18,7 @@ I enjoy turning ideas into working software and learning by doing.
 ## 🛠️ Tech Stack
 **Languages:** Java, JavaScript, Python, C, C#  
 **Web:** HTML, CSS, React, Node.js, Express  
-**Databases:** MySQL, MongoDB  
+**Databases:** MySQL, MongoDB, MS SQLServer  
 **Tools:** Git, GitHub, VS Code  
 
 ---
@@ -28,6 +28,7 @@ I enjoy turning ideas into working software and learning by doing.
 - Quiz Management System (.NET / C#)
 - Matrimonial App (Flutter)
 - Data Mining Projects (Apriori, FP-Growth)
+- Quiz Management System (ASP.Net Core)
 
 > More projects coming — continuously building and improving 🚧
 
@@ -41,7 +42,8 @@ I enjoy turning ideas into working software and learning by doing.
 ---
 
 ## 🤝 Let's Connect
-- GitHub: https://github.com/your-username
-- LinkedIn: (add when ready)
+- GitHub: https://github.com/hareshsambad
+- LinkedIn: https://www.linkedin.com/in/haresh-sambad
+- Leetcode: https://leetcode.com/haresh29
 
 ⭐ *Always open to learning, collaboration, and new opportunities.*
