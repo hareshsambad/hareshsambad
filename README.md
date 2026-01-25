@@ -28,7 +28,6 @@ I enjoy turning ideas into working software and learning by doing.
 - Quiz Management System (.NET / C#)
 - Matrimonial App (Flutter)
 - Data Mining Projects (Apriori, FP-Growth)
-- Quiz Management System (ASP.Net Core)
 
 > More projects coming — continuously building and improving 🚧
 
