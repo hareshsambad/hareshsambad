@@ -41,9 +41,24 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/FluentValidation-000000?style=for-the-badge" />
+</p>
+
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ### ⚙️ Tools
