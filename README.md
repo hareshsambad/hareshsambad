@@ -44,6 +44,6 @@ I enjoy turning ideas into working software and learning by doing.
 - GitHub: https://github.com/hareshsambad
 - LinkedIn: https://www.linkedin.com/in/haresh-sambad
 - Leetcode: https://leetcode.com/haresh29
-- Resume: https://drive.google.com/file/d/1BKSu3tDu0oX_HUqm9TcYWWvyUQoWFjyN/view?usp=drive_link
+- Resume: https://drive.google.com/file/d/1h6tj3PidxBji9UNXEbrNiHVi3ekZGmeL/view?usp=sharing
 
 ⭐ *Always open to learning, collaboration, and new opportunities.*
