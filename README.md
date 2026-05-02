@@ -1,56 +1,102 @@
-👋 Hi, I'm Haresh
+<h1 align="center">Hi 👋, I'm Haresh</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | Building Real-World Applications</h3>
 
-💻 Full Stack Developer (Aspiring)
-🚀 Building real-world applications | Learning by doing
+<p align="center">
+  <a href="https://github.com/hareshsambad">
+    <img src="https://img.shields.io/github/followers/hareshsambad?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/hareshsambad">
+    <img src="https://komarev.com/ghpvc/?username=hareshsambad&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
-⚡ About Me
-🎓 Computer Engineering Student
-🧠 Strong focus on DSA + Backend Development
-🔧 Love building scalable APIs & real-world systems
-📈 Constantly improving logic, clean code & system design
-🛠️ Tech Stack
-💻 Languages
+---
 
-Java JavaScript Python C C#
+## 🧑‍💻 About Me
+- 🎓 Computer Engineering Student  
+- 💡 Passionate about **Software Development & Problem Solving**  
+- 🔥 Currently focusing on **DSA + Backend Development**  
+- 🧠 Learning by building real-world projects  
+- ⚡ Writing clean, scalable, and maintainable code  
 
-🌐 Web Development
+---
 
-HTML CSS React Node.js Express
+## 🚀 What I'm Working On
+- 📊 Data Structures & Algorithms  
+- 🌐 Full Stack Web Development  
+- 🔧 Backend APIs & Database Design  
+- ⚙️ System Design Basics  
 
-🗄️ Databases
+---
 
-MySQL MongoDB SQL Server
+## 🛠️ Tech Stack
 
-⚙️ Tools
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cs" />
+</p>
 
-Git GitHub VS Code
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
 
-🚀 Projects
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-🔹 Library & Member Management System
-🔹 Quiz Management System (.NET / C#)
-🔹 Matrimonial App (Flutter)
-🔹 Data Mining (Apriori & FP-Growth)
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-📌 More projects coming — continuously building...
+---
 
-📊 What I'm Currently Doing
-🔥 Practicing Data Structures & Algorithms
-🧩 Building Full Stack Projects
-🧠 Improving Problem Solving Skills
-⚙️ Learning Backend Architecture
-🎯 Goal
+## 📌 Projects
+- 📚 Library & Member Management System  
+- 🧪 Quiz Management System (.NET / C#)  
+- 💍 Matrimonial App (Flutter)  
+- 📊 Data Mining (Apriori & FP-Growth)  
 
-👉 To become a skilled software developer and work on real-world impactful projects
+🚧 *More projects coming — continuously building...*
 
-🤝 Connect With Me
+---
 
-🌐 GitHub: https://github.com/hareshsambad
+## 📊 GitHub Stats
 
-💼 LinkedIn: https://www.linkedin.com/in/haresh-sambad
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hareshsambad&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hareshsambad&theme=tokyonight" />
+</p>
 
-🧠 LeetCode: https://leetcode.com/haresh29
+---
 
-💡 Developer Mindset
+## 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/haresh29?theme=dark&font=Baloo&ext=heatmap" />
+</p>
 
-“I don’t just write code, I solve problems and build systems.”
+---
+
+## 🎯 Goal
+👉 To become a **skilled Software Developer** and contribute to impactful real-world projects
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/hareshsambad"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/haresh-sambad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://leetcode.com/haresh29"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" /></a>
+</p>
+
+---
+
+## 💡 Developer Mindset
+> “I don’t just write code, I solve problems and build systems.”
+
+---
+
+⭐ **Open to opportunities, collaboration, and learning**
