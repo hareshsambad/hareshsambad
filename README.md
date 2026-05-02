@@ -1,49 +1,56 @@
-# Hi, I'm Haresh 👋
+👋 Hi, I'm Haresh
 
-### Aspiring Software Developer | Lifelong Learner
+💻 Full Stack Developer (Aspiring)
+🚀 Building real-world applications | Learning by doing
 
-I am a Computer Science engineering student with a strong interest in building real-world applications and continuously improving my problem-solving skills.  
-I enjoy turning ideas into working software and learning by doing.
+⚡ About Me
+🎓 Computer Engineering Student
+🧠 Strong focus on DSA + Backend Development
+🔧 Love building scalable APIs & real-world systems
+📈 Constantly improving logic, clean code & system design
+🛠️ Tech Stack
+💻 Languages
 
----
+Java JavaScript Python C C#
 
-## 🚀 What I'm Focused On
-- Strengthening **Data Structures & Algorithms**
-- Building **Web Applications** using modern technologies
-- Improving **backend logic, APIs, and databases**
-- Writing **clean, readable, and maintainable code**
+🌐 Web Development
 
----
+HTML CSS React Node.js Express
 
-## 🛠️ Tech Stack
-**Languages:** Java, JavaScript, Python, C, C#  
-**Web:** HTML, CSS, React, Node.js, Express  
-**Databases:** MySQL, MongoDB, MS SQLServer  
-**Tools:** Git, GitHub, VS Code  
+🗄️ Databases
 
----
+MySQL MongoDB SQL Server
 
-## 📌 Projects
-- Library & Member Management System (Web)
-- Quiz Management System (.NET / C#)
-- Matrimonial App (Flutter)
-- Data Mining Projects (Apriori, FP-Growth)
+⚙️ Tools
 
-> More projects coming — continuously building and improving 🚧
+Git GitHub VS Code
 
----
+🚀 Projects
 
-## 🎯 Goals
-- Gain real-world software development experience  
-- Contribute to meaningful projects  
-- Secure an opportunity where I can learn, grow, and add value  
+🔹 Library & Member Management System
+🔹 Quiz Management System (.NET / C#)
+🔹 Matrimonial App (Flutter)
+🔹 Data Mining (Apriori & FP-Growth)
 
----
+📌 More projects coming — continuously building...
 
-## 🤝 Let's Connect
-- GitHub: https://github.com/hareshsambad
-- LinkedIn: https://www.linkedin.com/in/haresh-sambad
-- Leetcode: https://leetcode.com/haresh29
-- Resume: https://drive.google.com/file/d/1h6tj3PidxBji9UNXEbrNiHVi3ekZGmeL/view?usp=sharing
+📊 What I'm Currently Doing
+🔥 Practicing Data Structures & Algorithms
+🧩 Building Full Stack Projects
+🧠 Improving Problem Solving Skills
+⚙️ Learning Backend Architecture
+🎯 Goal
 
-⭐ *Always open to learning, collaboration, and new opportunities.*
+👉 To become a skilled software developer and work on real-world impactful projects
+
+🤝 Connect With Me
+
+🌐 GitHub: https://github.com/hareshsambad
+
+💼 LinkedIn: https://www.linkedin.com/in/haresh-sambad
+
+🧠 LeetCode: https://leetcode.com/haresh29
+
+💡 Developer Mindset
+
+“I don’t just write code, I solve problems and build systems.”
