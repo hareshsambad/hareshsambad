@@ -69,6 +69,7 @@
 ---
 
 ## 📌 Projects
+- 📊 Milk Management System (React, ASP.NET Core Web API)
 - 📚 Library & Member Management System  
 - 🧪 Quiz Management System (.NET / C#)  
 - 💍 Matrimonial App (Flutter)  
